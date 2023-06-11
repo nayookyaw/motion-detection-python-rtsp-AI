@@ -17,11 +17,11 @@ I developed python codes because to get more control under myself <br>
 https://youtu.be/Nnri7Szt4pI
 
 
-* How to run
+* How to run <br>
 look for "motion-detection.py" <br>
  $ python motion-detection.py
 
-* Dependencies
+* Dependencies <br>
  $ pip install opencv-python <br>
 
 [Note] <br>
