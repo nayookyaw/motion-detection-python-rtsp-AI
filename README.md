@@ -13,9 +13,18 @@ I developed python codes because to get more control under myself <br>
 *[Demo]* <br>
 ![](motion-detection-python-rtsp-ai.gif)
 
-[DemoVideo]
+[DemoVideo] <br>
+https://youtu.be/Nnri7Szt4pI
 
 
-[Note]
+* How to run
+look for "motion-detection.py" <br>
+ $ python motion-detection.py
+
+* Dependencies
+ $ pip install opencv-python <br>
+
+[Note] <br>
+Replace with your real rtsp live stream for "rtsp_url" constant
 
 
